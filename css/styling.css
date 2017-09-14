@@ -1,0 +1,50 @@
+.top-of-page{
+    text-align: right;
+}
+
+.top-box{
+    padding-right: 2%;
+    text-shadow: 2px 2px #000;
+    color: #9e9e9e;
+    text-align: right;
+}
+
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    background-color: lightblue;
+}
+
+.text{
+    color: #757575;
+}
+
+.upper-text{
+    color: #757575;
+}
+
+a{
+    color: #424242;
+}
+
+hr{
+    height:5px;
+    background-color:#9e9e9e;"
+}
+
+.copyright_text{
+    text-align: right;
+    align-self: flex-end;
+    color: #616161;
+    font-size: 1.2em;
+}
+
+.box{
+    display:flex;
+    align-items:flex-start;
+}
+
+.container{
+    padding: 5% 0%;
+}
